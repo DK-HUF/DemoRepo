@@ -1,0 +1,10 @@
+#comment
+
+#Generic - all files to DK-HUF by default
+* @DK-HUF
+
+# ALl source code automaticlly
+*.c @DK-HUF
+
+# Build Scripts to Build Manager DK-HUF
+Build/* @DK-HUF
