@@ -1,0 +1,10 @@
+#comment
+
+#Generic - all files to github-klugr AND DK-HUF by default
+* @github-klugr @DK-HUF
+
+# ALl source code automaticlly
+*.c @github-klugr @DK-HUF
+
+# Build Scripts to Build Manager DK-HUF
+Build/* @github-klugr @DK-HUF
